@@ -50,6 +50,7 @@ input {
     top: 12.9px;
     left: 13px;
     font-size: 14px;
+    border-radius: 5px;
     transition: all .2s;
 }
 
